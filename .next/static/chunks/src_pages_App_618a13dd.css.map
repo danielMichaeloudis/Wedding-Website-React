@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file://G%3A/dmich/Documents/wedding-website-react/src/pages/App.css"],"sourcesContent":["body {\r\n    background-color: #1b3247;\r\n}\r\n"],"names":[],"mappings":"AAAA","debugId":null}}]
+}
