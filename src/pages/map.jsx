@@ -122,6 +122,15 @@ function MapPage() {
                             </Button>
                         </Paper>
                     </Grid>
+                    <Box
+                        sx={{
+                            width: "100%",
+                            justifyContent: "center",
+                            display: "flex",
+                        }}
+                    >
+                        <Paper sx={{ m: 3, p: 4 }} elevation={3}></Paper>
+                    </Box>
                 </Paper>
             </Box>
         </>

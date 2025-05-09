@@ -24,3 +24,5 @@ yarn-error.log*
 
 # credentials
 googleSheetsCreds.json
+
+/.next

@@ -16,22 +16,52 @@
   "dynamicRoutes": [],
   "staticRoutes": [
     {
-      "page": "/_not-found",
-      "regex": "^/_not\\-found(?:/)?$",
+      "page": "/",
+      "regex": "^/(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/_not\\-found(?:/)?$"
+      "namedRegex": "^/(?:/)?$"
     },
     {
-      "page": "/pages/map",
-      "regex": "^/pages/map(?:/)?$",
+      "page": "/components/Header",
+      "regex": "^/components/Header(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/pages/map(?:/)?$"
+      "namedRegex": "^/components/Header(?:/)?$"
     },
     {
-      "page": "/pages/rsvp",
-      "regex": "^/pages/rsvp(?:/)?$",
+      "page": "/login/login",
+      "regex": "^/login/login(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/pages/rsvp(?:/)?$"
+      "namedRegex": "^/login/login(?:/)?$"
+    },
+    {
+      "page": "/map",
+      "regex": "^/map(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/map(?:/)?$"
+    },
+    {
+      "page": "/menu",
+      "regex": "^/menu(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/menu(?:/)?$"
+    },
+    {
+      "page": "/music",
+      "regex": "^/music(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/music(?:/)?$"
+    },
+    {
+      "page": "/rsvp",
+      "regex": "^/rsvp(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/rsvp(?:/)?$"
+    },
+    {
+      "page": "/sendRsvpRes",
+      "regex": "^/sendRsvpRes(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sendRsvpRes(?:/)?$"
     }
   ],
   "dataRoutes": [],

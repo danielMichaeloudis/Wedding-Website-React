@@ -1,8 +1,17 @@
 {
-  "/": "pages/index.js",
   "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
   "/api/getPassword": "pages/api/getPassword.js",
-  "/menu": "pages/menu.js",
-  "/music": "pages/music.js"
+  "/_error": "pages/_error.js",
+  "/api/insertRsvp": "pages/api/insertRsvp.js",
+  "/api/postMusicReq": "pages/api/postMusicReq.js",
+  "/components/Header": "pages/components/Header.html",
+  "/menu": "pages/menu.html",
+  "/": "pages/index.html",
+  "/music": "pages/music.html",
+  "/sendRsvpRes": "pages/sendRsvpRes.html",
+  "/rsvp": "pages/rsvp.html",
+  "/map": "pages/map.html",
+  "/login/login": "pages/login/login.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
 }

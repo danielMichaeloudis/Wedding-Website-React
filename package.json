@@ -17,8 +17,9 @@
     "scripts": {
         "dev": "next dev --turbopack",
         "build": "next build",
-        "start": "npx serve@latest ./build",
-        "serve": "next serve ./build"
+        "start": "npx serve@latest ./.next",
+        "serve": "next serve ./build",
+        "start2": "next start"
     },
     "eslintConfig": {
         "extends": [
@@ -40,6 +41,7 @@
     },
     "devDependencies": {
         "@types/node": "22.13.14",
+        "eslint": "^9.24.0",
         "typescript": "5.8.2"
     }
 }
