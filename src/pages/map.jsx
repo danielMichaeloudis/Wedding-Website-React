@@ -129,7 +129,7 @@ function MapPage() {
                             display: "flex",
                         }}
                     >
-                        <Paper sx={{ m: 3, p: 4 }} elevation={3}></Paper>
+                        <Paper sx={{ m: 3, p: 4 }} elevation={3}><Typography>The hotel car park can be used by anybody staying overnight at the hotel.</Typography><Typography>For anybody not staying overnight at the hotel, the nearest car park is the west hill car park, a five minute walk away</Typography></Paper>
                     </Box>
                 </Paper>
             </Box>
